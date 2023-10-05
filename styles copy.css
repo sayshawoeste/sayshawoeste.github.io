@@ -1,0 +1,58 @@
+body {
+	padding: 5px;
+	font-family: Times New Roman;
+	margin-left: 350px;
+	margin-right: 350px;
+	background-color: aliceblue
+}
+
+#header {
+	color: #000000; 
+	font-size: 200%;
+	font-family: Times New Roman;
+	text-align: left;
+	padding: 10px;
+	border-bottom: 1px solid #303030;
+	
+}
+
+#nav { 
+	text-align: left;
+	border-bottom: 1px solid;
+	color: black
+}
+
+#content {
+	border-bottom: 1px solid #303030;
+}
+
+#footer {
+	color: black;
+	font-family: Helvetica;
+	text-align: center;
+}
+
+/* Link formatting */
+
+a:link {
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #009698;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #009698;
+	background-color: transparent;
+	text-decoration: underline;
+}
+
+a:active {
+	color: #009698;
+	background-color: transparent;
+	text-decoration: underline;
+}
